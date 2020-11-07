@@ -23,7 +23,7 @@ Ideally your submission should involve a component-based approach, and have a re
 
 ## What we're looking for
 
-With this challenge we're trying to get a sense of how you would architect a basic front end application. We're not looking for anything visually innovative, but do appreciate clean design. That being said, this is a coding, not a design, challenge - so code readability, and clean architecture are the main things we will be paying attention to.
+With this challenge we're trying to get a sense of how you would architect a basic front end application. We're not looking for anything visually innovative, but do appreciate clean design. That being said, this is a coding challenge, not a design challenge - so code readability, and clean architecture are the main things we will be paying attention to.
 
 ## Sumission
 
