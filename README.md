@@ -25,6 +25,6 @@ Ideally your submission should involve a component-based approach, and have a re
 
 With this challenge we're trying to get a sense of how you would architect a basic front end application. We're not looking for anything visually innovative, but do appreciate clean design. That being said, this is a coding challenge, not a design challenge - so code readability, and clean architecture are the main things we will be paying attention to.
 
-## Sumission
+## Submission
 
 For submission, please send us an email with a link to your project, ideally as a github repo. Oh, and don't forget to add a nice README.md so we know how to build & run it :)
